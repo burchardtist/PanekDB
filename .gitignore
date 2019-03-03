@@ -1,0 +1,10 @@
+*.pyc
+.idea/*
+venv/*
+*.sqlite3
+*.sqlite
+.mypy_cache/*
+build
+
+htmlcov/
+.coverage
